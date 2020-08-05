@@ -1,0 +1,1 @@
+This Project will contain a ReSTful api designed to work as a backend alongside an Angular frontend.
