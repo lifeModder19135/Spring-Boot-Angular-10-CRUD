@@ -11,3 +11,8 @@ This Project will contain a ReSTful api designed to work as a backend alongside 
       - /users/id  PUT
       - /users/id  DELETE
       
+ Project maintained on my Github at: 
+ 
+             https://github.com/lifeModder19135/Spring-Boot-Angular-10-CRUD__Back-End.git
+             
+ (Notice the double underscore!)

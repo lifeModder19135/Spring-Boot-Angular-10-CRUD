@@ -1,4 +1,4 @@
-package com.ntolb.springbootangular10CRUD_backend;
+package com.ntolb.springBootNgBackEnd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
